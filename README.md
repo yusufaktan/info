@@ -1,4 +1,4 @@
-<img align="right" src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="300" />
+<img align="right" src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="350" />
 
 <h1 align="center"> Hey 👋, I'm Yusuf Aktan! </h1>
 

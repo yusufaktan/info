@@ -14,10 +14,14 @@
 - 🌱 I’m currently learning everything 🤣
 - :pencil2: Python / C++ / C / PHP / HTML-CSS-JS
 - 👯 I’m looking to collaborate with other content creators
- ## A
+
+### ⚙️ &nbsp;GitHub Analytics
+
 <p align="center">
 <a href="https://github.com/AVS1508">
-  <img  height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufaktan&layout=compact&hide_title=1&theme=dark&card_width=300" alt="Top language used in my repos" />
-   <img  height="120em" src="https://github-readme-stats.vercel.app/api?username=yusufaktan&theme=dark&show_icons=true" alt="YUSUF AKTAN">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+### 🤝🏻 &nbsp;Connect with Me

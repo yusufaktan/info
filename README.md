@@ -15,7 +15,8 @@
 - :pencil2: Python / C++ / C / PHP / HTML-CSS-JS
 - 👯 I’m looking to collaborate with other content creators
 
-<br><br><br><br>
+<br><br><br><br><br> <br>
+
 
 
 <p align="center">

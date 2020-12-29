@@ -15,8 +15,9 @@
 - :pencil2: Python / C++ / C / PHP / HTML-CSS-JS
 - 👯 I’m looking to collaborate with other content creators
 
+<h4 align="center">GitHub Analytics</h4>
+
 <br><br><br><br><br>
-<h4 align="right">GitHub Analytics</h4>
 
 <p align="center">
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yusufaktan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>

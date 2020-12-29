@@ -16,7 +16,7 @@
 - 👯 I’m looking to collaborate with other content creators
 
 <br><br><br><br>
-<h4 align="center">GitHub Analytics</h4>
+<h4 align="right">GitHub Analytics</h4>
 <br>
 
 <p align="center">

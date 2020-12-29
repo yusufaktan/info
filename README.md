@@ -15,7 +15,10 @@
 - :pencil2: Python / C++ / C / PHP / HTML-CSS-JS
 - 👯 I’m looking to collaborate with other content creators
 
+<br> <br><br> <br>
 <br> <br>
+<br> <br>
+
 
 <p align="center">
   <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yusufaktan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>

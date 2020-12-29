@@ -16,6 +16,7 @@
 - 👯 I’m looking to collaborate with other content creators
 
 <br> <br>
+
 <p align="center">
   <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yusufaktan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yusufaktan&layout=compact&langs_count=8&theme=algolia"/>

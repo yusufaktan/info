@@ -18,7 +18,6 @@
 
 <br>
 
-<h3 align="right">GitHub Analytics</h3>
 <p align="center">
 <a href="https://github.com/AVS1508">
   <img  height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufaktan&layout=compact&hide_title=1&theme=dark&card_width=300" alt="Top language used in my repos" />

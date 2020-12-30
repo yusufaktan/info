@@ -1,6 +1,7 @@
+<h1 align="center">Hey there! 👋</h1>
+
 <img align="right" src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="305" />
 
-<h1 align="center">Hey there! 👋</h1>
 
 [<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](mailto:yusufaktn@outlook.com)
 [<img src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/yusufaktan/)

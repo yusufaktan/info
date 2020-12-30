@@ -9,7 +9,7 @@
 [<img src="https://img.icons8.com/bubbles/50/000000/spotify.png"/>](https://open.spotify.com/user/pjk917o0ihnrig8uxjtpx6q2f?si=xXe5bC4PQSSG1gTuAu_HYg)
 
 
-#### Hi, I'm Yekta, a passionate computer programming student from Turkey.
+#### Hi, I'm Yusuf, a passionate computer programming student from Turkey.
 - 🔭 I’m currently working on **some of my side projects**
 - 💻 I'm a Student and Developer
 - 🌱 I’m currently learning everything 🤣

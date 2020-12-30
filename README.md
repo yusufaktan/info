@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on **some of my side projects**
 - 💻 I'm a Student and Developer
 - 🌱 I’m currently learning everything 🤣
-- :pencil2: Python / C++ / C / PHP / HTML-CSS-JS
+- :pencil2: **Python / C++ / C / PHP / HTML-CSS-JS**
 - 👯 I’m looking to collaborate with other content creators
 
 <br>

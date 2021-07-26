@@ -2,12 +2,15 @@
 
 <img align="right" src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="305" />
 
+<img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="70"/>
+
 
 [<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](mailto:yusufaktn@outlook.com)
 [<img src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/yusufaktan/)
 [<img src="https://img.icons8.com/bubbles/50/000000/twitter.png"/>](https://twitter.com/aktnyusuf)
 [<img src="https://img.icons8.com/bubbles/50/000000/instagram.png"/>](https://instagram.com/aktny)
 [<img src="https://img.icons8.com/bubbles/50/000000/spotify.png"/>](https://open.spotify.com/user/pjk917o0ihnrig8uxjtpx6q2f?si=xXe5bC4PQSSG1gTuAu_HYg)
+
 
 
 #### Hi, I'm Yusuf, a passionate computer programming student from Turkey.

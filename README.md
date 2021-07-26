@@ -2,7 +2,7 @@
 
 <img align="right" src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="305" />
 
-<img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="70"/>
+<img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="80"/>
 
 
 [<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](mailto:yusufaktn@outlook.com)

@@ -22,7 +22,7 @@
 
 <br>
 
-<p align="left">
+<p align="center">
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yusufaktan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yusufaktan&layout=compact&langs_count=8&theme=dark"/>
   </p>

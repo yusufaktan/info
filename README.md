@@ -3,7 +3,7 @@
 
 <img align="right" src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="400" />
 
-A passionate Software Developer from Turkey <img src="https://icons.iconarchive.com/icons/wikipedia/flags/1024/TR-Turkey-Flag-icon.png" width="25 style="vertical-align: bottom"/>
+<h3 align="center">A passionate Software Developer from Turkey <img src="https://icons.iconarchive.com/icons/wikipedia/flags/1024/TR-Turkey-Flag-icon.png" width="25 style="vertical-align: bottom"/>   </h3>
 
 
 

@@ -12,6 +12,10 @@
 [<img src="https://img.icons8.com/bubbles/50/000000/instagram.png"/>](https://instagram.com/aktny)
 [<img src="https://img.icons8.com/bubbles/50/000000/spotify.png"/>](https://open.spotify.com/user/pjk917o0ihnrig8uxjtpx6q2f?si=xXe5bC4PQSSG1gTuAu_HYg)
 
+- 🔭 I’m currently working on some of my side projects
+- 🌱 I’m currently learning everything
+- 👯 I’m looking to collaborate with other content creators
+
 
 
 <h3 align="left">Languages and Tools:</h3>

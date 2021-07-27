@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Yusuf</h1>
 <h3 align="center">software developer</h3>
 
-<img align="right" src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="400"/>
+<img align="right" src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="450"/>
 
 <h4>A passionate Software Developer from Turkey <img src="https://icons.iconarchive.com/icons/wikipedia/flags/1024/TR-Turkey-Flag-icon.png" width="25"/></h4><br>
 

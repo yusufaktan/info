@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Yusuf</h1>
 <h3 align="center">software developer</h3>
 
-<img align="right" src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="450"/>
+<img align="right" src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="400"/>
 
 <h4>A passionate Software Developer from Turkey <img src="https://icons.iconarchive.com/icons/wikipedia/flags/1024/TR-Turkey-Flag-icon.png" width="25"/></h4><br>
 
@@ -25,6 +25,6 @@
 <p align="center">
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yusufaktan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yusufaktan&layout=compact&langs_count=8&theme=dark"/>
-  </p>
+</p>
 
 

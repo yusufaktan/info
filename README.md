@@ -3,6 +3,7 @@
 
 <img align="right" src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="305" />
 
+#### Hi, I'm Yusuf, a passionate computer programming student from Turkey.
 
 [<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](mailto:yusufaktn@outlook.com)
 [<img src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/yusufaktan/)
@@ -11,8 +12,7 @@
 [<img src="https://img.icons8.com/bubbles/50/000000/spotify.png"/>](https://open.spotify.com/user/pjk917o0ihnrig8uxjtpx6q2f?si=xXe5bC4PQSSG1gTuAu_HYg)
 
 
-#### Hi, I'm Yusuf, a passionate computer programming student from Turkey.
-- 🔭 I’m currently working on **some of my side projects**
+- 🔭 I’m currently working on some of my side projects
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
 

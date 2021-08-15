@@ -23,8 +23,8 @@
 <br><br>
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yusufaktan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yusufaktan&layout=compact&langs_count=8&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=yusufaktan&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=gruvbox"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yusufaktan&layout=compact&langs_count=8&theme=gruvbox"/>
 </p>
 
 

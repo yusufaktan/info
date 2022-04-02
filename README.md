@@ -8,8 +8,6 @@
 [<img src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/yusufaktan/)
 <img src="https://media.giphy.com/media/aFN9DbzlT3leXW0zt8/giphy.gif" width="150"/>
 
-<br>
-
 <h4>A passionate Software Developer from Turkey <img src="https://icons.iconarchive.com/icons/wikipedia/flags/1024/TR-Turkey-Flag-icon.png" width="15"/></h4>
 - 🔭 I’m currently working on some of my side projects <br>
 - 🌱 I’m currently learning everything  <br>

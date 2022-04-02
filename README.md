@@ -4,8 +4,6 @@
 
 <img align="right" src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="400"/>
 
-<br>
-
 [<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](mailto:yusufaktn@outlook.com)
 [<img src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/yusufaktan/)
 <img src="https://media.giphy.com/media/aFN9DbzlT3leXW0zt8/giphy.gif" width="150"/>

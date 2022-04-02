@@ -13,8 +13,8 @@
 <br>
 
 <h4>A passionate Software Developer from Turkey <img src="https://icons.iconarchive.com/icons/wikipedia/flags/1024/TR-Turkey-Flag-icon.png" width="15"/></h4>
-- 🔭 I’m currently working on some of my side projects
-- 🌱 I’m currently learning everything
+- 🔭 I’m currently working on some of my side projects <br>
+- 🌱 I’m currently learning everything  <br>
 - 👯 I’m looking to collaborate with other content creators
 
 <h4 align="left">Languages and Tools:</h4>

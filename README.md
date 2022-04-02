@@ -8,7 +8,7 @@
 
 [<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](mailto:yusufaktn@outlook.com)
 [<img src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/yusufaktan/)
-<img align="left" src="https://media.giphy.com/media/aFN9DbzlT3leXW0zt8/giphy.gif" width="150"/>
+<img src="https://media.giphy.com/media/aFN9DbzlT3leXW0zt8/giphy.gif" width="150"/>
 
 <br>
 

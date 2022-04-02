@@ -8,6 +8,7 @@
 
 [<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](mailto:yusufaktn@outlook.com)
 [<img src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/yusufaktan/)
+<iframe src="https://giphy.com/embed/aFN9DbzlT3leXW0zt8" width="240" height="160" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/Serhant-transparent-contact-me-serhant-aFN9DbzlT3leXW0zt8"></a></p>
 
 <h4>A passionate Software Developer from Turkey <img src="https://icons.iconarchive.com/icons/wikipedia/flags/1024/TR-Turkey-Flag-icon.png" width="15"/></h4>
 - 🔭 I’m currently working on some of my side projects

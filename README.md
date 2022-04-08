@@ -23,7 +23,7 @@
 
 <p align="center">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=yusufaktan&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=gruvbox"/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufaktan&layout=compact)]
+  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yusufaktan&layout=compact&langs_count=8&theme=gruvbox"/>
 
 </p>
 

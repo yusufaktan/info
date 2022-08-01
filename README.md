@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-000?style=flat&logoColor=blue&logo=linkedin)](https://www.linkedin.com/in/yusufaktan)
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github)](https://www.github.com/yusufaktan)
-[![Mail](https://img.shields.io/badge/-Mail-000?style=flat&logo=github)](mailto:yusufaktn@outlook.com)
+[![Mail](https://img.shields.io/badge/Mail-000?style=flat&logoColor=red&logo=gmail)](mailto:yusufaktn@outlook.com)
 
 A passionate Software Developer from Turkey <img src="https://icons.iconarchive.com/icons/wikipedia/flags/1024/TR-Turkey-Flag-icon.png" width="15"/>
 
@@ -14,4 +14,4 @@ A passionate Software Developer from Turkey <img src="https://icons.iconarchive.
 
 ## Get in touch
 - Personal Website: [aktanyusuf.com](https://www.aktanyusuf.com/)
-- LinkedIn: www.linkedin.com/in/sukru-uzel
+- LinkedIn: www.linkedin.com/in/yusufaktan

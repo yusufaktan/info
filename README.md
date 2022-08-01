@@ -14,4 +14,4 @@ A passionate Software Developer from Turkey <img src="https://icons.iconarchive.
 
 ### Get in touch
 - Personal Website: [aktanyusuf.com](https://www.aktanyusuf.com/)
-- LinkedIn: [linkedin/yusufaktan](linkedin.com/in/yusufaktan)
+- LinkedIn: [linkedin/yusufaktan](https://www.linkedin.com/in/yusufaktan)

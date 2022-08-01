@@ -1,16 +1,10 @@
+# Yusuf Aktan
 
-<h1 align="center">Hi 👋, I'm Yusuf</h1>
-<h3 align="center">software developer</h3>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-000?style=flat&logoColor=blue&logo=linkedin)](https://www.linkedin.com/in/yusufaktan)
+[![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github)](https://www.github.com/yusufaktan)
+[![Mail](https://img.shields.io/badge/-Mail-000?style=flat&logo=github)](mailto:yusufaktn@outlook.com)
 
-[<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](mailto:yusufaktn@outlook.com)
-[<img src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/yusufaktan/)
-<img src="https://media.giphy.com/media/aFN9DbzlT3leXW0zt8/giphy.gif" width="150"/>
-<img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="150"/>
-
-<h4>A passionate Software Developer from Turkey <img src="https://icons.iconarchive.com/icons/wikipedia/flags/1024/TR-Turkey-Flag-icon.png" width="15"/></h4>
-- 🔭 I’m currently working on some of my side projects <br>
-- 🌱 I’m currently learning everything  <br>
-- 👯 I’m looking to collaborate with other content creators
+A passionate Software Developer from Turkey <img src="https://icons.iconarchive.com/icons/wikipedia/flags/1024/TR-Turkey-Flag-icon.png" width="15"/>
 
 <h4 align="left">Languages and Tools:</h4>
 
@@ -18,3 +12,6 @@
 </a> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vsc" width="40" height="40"/> </a> 
 </p>
 
+## Get in touch
+- Personal Website: [aktanyusuf.com](https://www.aktanyusuf.com/)
+- LinkedIn: www.linkedin.com/in/sukru-uzel

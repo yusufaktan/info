@@ -4,7 +4,7 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github)](https://www.github.com/yusufaktan)
 [![Mail](https://img.shields.io/badge/Mail-000?style=flat&logoColor=red&logo=gmail)](mailto:yusufaktn@outlook.com)
 
-A passionate Software Developer from Turkey <img src="https://icons.iconarchive.com/icons/wikipedia/flags/1024/TR-Turkey-Flag-icon.png" width="25"/>
+A passionate Software Developer from Turkey <img src="https://icons.iconarchive.com/icons/wikipedia/flags/1024/TR-Turkey-Flag-icon.png" align="bottom" width="25"/>
 
 <img height="225" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=yusufaktan&langs_count=10&theme=dark&layout=compact" />
 

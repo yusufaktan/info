@@ -6,7 +6,7 @@
 
 A passionate Software Developer from Turkey <img src="https://icons.iconarchive.com/icons/wikipedia/flags/1024/TR-Turkey-Flag-icon.png" width="15"/>
 
-<img height="200" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=yusufaktan&langs_count=10&theme=dark&layout=compact" />
+<img height="225" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=yusufaktan&langs_count=10&theme=dark&layout=compact" />
 
 ### Languages and Tools
 
